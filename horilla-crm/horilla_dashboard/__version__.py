@@ -1,0 +1,5 @@
+__version__ = "1.0.0"
+__module_name__ = "Dashboards"
+__release_date__ = ""
+__description__ = "Module for building and customizing interactive dashboards."
+__icon__ = "assets/icons/icon6.svg"

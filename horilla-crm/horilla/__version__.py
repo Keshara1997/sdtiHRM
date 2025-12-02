@@ -1,0 +1,5 @@
+__version__ = "1.0.0"
+__module_name__ = "Core System"
+__release_date__ = ""
+__description__ = ""
+__icon__ = "assets/icons/logo.png"
